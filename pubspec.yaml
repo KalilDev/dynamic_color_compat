@@ -1,18 +1,18 @@
 name: dynamic_color_compat
 description: An dynamic_color alternative that supports older verssions of android
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
   sdk: '>=2.16.0 <3.0.0'
-  flutter: ">=1.17.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
     sdk: flutter
   palette_from_wallpaper: ^0.1.5
   dynamic_color: ^1.5.3
-  material_color_utilities: ^0.1.5
+  material_color_utilities: ^0.2.0
 
 dev_dependencies:
   flutter_test:
