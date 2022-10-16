@@ -1,6 +1,6 @@
 name: dynamic_color_compat
 description: An dynamic_color alternative that supports older verssions of android
-version: 0.0.2
+version: 0.0.3
 homepage:
 
 environment:
